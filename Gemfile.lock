@@ -164,7 +164,7 @@ GEM
     msgpack (1.4.2)
     multi_json (1.15.0)
     netrc (0.11.0)
-    nio4r (2.5.7)
+    nio4r (2.5.8)
     nokogiri (1.11.7)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
@@ -174,7 +174,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (4.0.6)
-    puma (5.3.2)
+    puma (5.5.2)
       nio4r (~> 2.0)
     racc (1.5.2)
     rack (2.2.3)
@@ -309,7 +309,7 @@ DEPENDENCIES
   mailjet!
   pg (>= 0.18, < 2.0)
   pry
-  puma (~> 5.3.2)
+  puma (~> 5.5.2)
   rails (~> 5.2.3)
   rails-erd
   sass-rails (~> 5.0)
